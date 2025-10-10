@@ -1,4 +1,4 @@
-<h1 align="center">🌌 D-Lab</h1>
+<h1 align="center">🌌 D-LAB</h1>
 <p align="center">
   <b>Exploring Intelligence · Engineering Ideas · Building the Future</b><br>
   <i>Founded by <a href="https://github.com/zxuuuustupid">Zhixu Duan</a></i>
